@@ -2,7 +2,7 @@
 
 Projekt na vytvoření v ArcGIS územního plánu obce Ondřejovice pro předmět TGI na FAV ZČU.
 
-'''
+'''bash
 git add . 
 git commit -m "Changes"
 git branch -M main
