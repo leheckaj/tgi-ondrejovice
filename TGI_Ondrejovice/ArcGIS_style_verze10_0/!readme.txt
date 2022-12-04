@@ -1,0 +1,1 @@
+Soubor DM_UP_v10.style obsahuje knihovnu grafických symbolù pro zobrazení objektù Standardu vybraných èástí územního plánu dle DM_UP verze 1.0 v prostøedí ESRI ArcGIS Desktop verze 10.0 až 10.8.
